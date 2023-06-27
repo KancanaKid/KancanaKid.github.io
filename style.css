@@ -1,0 +1,37 @@
+body {
+  font-family: "Roboto Condensed", roboto-condensed;
+}
+
+.jumbotron {
+  padding: 6rem 1rem;
+  background-color: #ede7f6;
+}
+
+section {
+  padding-top: 3rem;
+}
+
+a:link {
+  text-decoration: none;
+}
+
+a:visited {
+  text-decoration: none;
+}
+
+a:hover {
+  text-decoration: none;
+}
+
+a:active {
+  text-decoration: none;
+}
+
+hr.rounded {
+  border-top: 8px solid #bbb;
+  border-radius: 5px;
+}
+
+.title {
+  color: #6f42c1;
+}
